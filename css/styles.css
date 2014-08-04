@@ -1,0 +1,10 @@
+/* PAGE LAYOUT STYLES */
+	
+body{ 
+	margin: 0; 
+	font-family: arial, sans-serif; 
+	background: #eee;
+}
+#mainContainer{
+	padding-top:3%;
+}
